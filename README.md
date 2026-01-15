@@ -11,9 +11,11 @@
   🎓 CS & Statistics student @ <b>McGill University</b><br>
   
 ⚡ Interested in:  
-- Data-intensive & high-performance backend systems  
-- Robotics & AI/ML in healthcare  
+- Data-intensive & high-performance backend systems
+- Systems programming and concurrency
 - Quantitative finance & market modeling
+- Programming Language theory & compilers
+
 
 ---
 
@@ -24,6 +26,7 @@
 - 🚀 Building **CleanMatch** — platform connecting Airbnb hosts with local cleaners
 - 🏥 Applying **ML in healthcare** — predictive analytics for hospital operations
 - 📈 Exploring **financial markets** — quantitative strategies & data pipelines
+- 🦀 Learning **Rust** — building small projects
 - 🤖 Diving deeper into **robotics** — SLAM and Computer Vision
 
 ---
