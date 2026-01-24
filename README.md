@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  🎓 CS & Statistics student @ <b>McGill University</b><br>
+  🎓 CS & Mathematics student @ <b>McGill University</b><br>
   
 ⚡ Interested in:  
 - Data-intensive & high-performance backend systems
@@ -43,10 +43,6 @@
 
 **Developer Tools**  
 `Git` · `Docker` · `AWS (S3)`
-
-**Libraries**  
-`pandas` · `NumPy` · `Matplotlib` · `SimPy` · `scikit-learn`  
-`asyncio` · `multithreading` · `socket` · `polars`
 
 ---
 
