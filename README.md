@@ -22,7 +22,7 @@
 
 <p align="center">
   My work lives at the intersection of abstraction and execution.<br>
-  I’m drawn to systems where theory survives contact with reality.
+  I’m drawn to systems where theory meets engineering.
 </p>
 
 <br>
