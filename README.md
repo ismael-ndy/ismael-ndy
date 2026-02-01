@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/creation_of_adam.jpg" width="1000" alt="The Creation of Adam — detail">
+  <img src="./images/creation_of_adam.jpg" width="800" alt="The Creation of Adam — detail">
 </p>
 
 <h1 align="center">Ismael</h1>
@@ -9,70 +9,83 @@
 </p>
 
 <p align="center">
-  <em>
-      <br>البحصة باِصبِر تَنُل 
-  </em>
+  <em>البَحَصَةُ بِالصَّبْرِ تَنالُ</em>
 </p>
 
 <br>
-
-<p align="center">
-  <img src="./images/white_roses.jpg" width="600" alt="Floral divider">
-</p>
 
 <div align="center">
   <h2>Focus</h2>
 </div>
 
 <p align="center">
-    My work lives at the intersection of abstraction and execution.
+  My work lives at the intersection of abstraction and execution.<br>
+  I’m drawn to systems that are mathematically grounded and operationally sharp.
 </p>
 
-
-I’m particularly drawn to:
-- Type Theory and PL Theory  
-- Compilers, Concurrency, Systems Programming, ,  
-- Quantitative finance & market modeling  
-
-<br>
+<ul>
+  <li>Type Theory & Programming Language Theory</li>
+  <li>Compilers, Concurrency, Systems Programming</li>
+  <li>Quantitative finance & market modeling</li>
+</ul>
 
 <p align="center">
-  <img src="./images/Margaretha.jpg" width="600" alt="Floral divider">
+  <img src="./images/white_roses.jpg" width="400" alt="Floral divider">
 </p>
+
+<br>
 
 <div align="center">
   <h2>What I’m Working On</h2>
 </div>
 
-- Designing and implementing a <b>low-latency market-making engine</b> for prediction markets, with an emphasis on performance, concurrency, and execution efficiency  
-
-- Developing <b>object detection and avoidance systems</b> for autonomous drones  
-
-- Building <b>machine learning models for healthcare</b>, focused on real-world clinical data and decision support  
-
-
-<br>
+<ul>
+  <li>
+    Designing and implementing a <b>low-latency market-making engine</b> for prediction
+    markets, with an emphasis on performance, concurrency, and execution efficiency
+  </li>
+  <li>
+    Developing <b>object detection and avoidance systems</b> for autonomous drones
+  </li>
+  <li>
+    Building <b>machine learning models for healthcare</b>, focused on real-world
+    clinical data and decision support
+  </li>
+</ul>
 
 <p align="center">
-  <img src="./images/violet.jpg" width="600" alt="Floral divider">
+  <img src="./images/Margaretha.jpg" width="400" alt="Floral divider">
 </p>
 
+<br>
 
 <div align="center">
   <h2>Technical Stack</h2>
 </div>
 
-<b>Languages</b><br>
-`Python` · `Java` · `C` · `SQL (PostgreSQL)` · `Rust` · `OCaml`
+<p align="center">
+  <b>Languages</b><br>
+  <code>Python</code> · <code>Java</code> · <code>C</code> ·
+  <code>SQL (PostgreSQL)</code> · <code>Rust</code> · <code>OCaml</code>
+</p>
 
-<b>Frameworks</b><br>
-`FastAPI (REST API)` · `Flask` · `Django` · `React` · `PyTest` · `JUnit`
+<p align="center">
+  <b>Frameworks</b><br>
+  <code>FastAPI</code> · <code>Flask</code> · <code>Django</code> ·
+  <code>React</code> · <code>PyTest</code> · <code>JUnit</code>
+</p>
 
+<p align="center">
+  <b>Developer Tools</b><br>
+  <code>Git</code> · <code>Docker</code> · <code>AWS (S3)</code>
+</p>
 
-<b>Developer Tools</b><br>
-`Git` · `Docker` · `AWS (S3)`
+<p align="center">
+  <img src="./images/violet.jpg" width="400" alt="Floral divider">
+</p>
 
----
+<br>
+
 <div align="center">
   <h2>Connect</h2>
 </div>
