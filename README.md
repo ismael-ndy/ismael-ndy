@@ -25,6 +25,8 @@
   I’m drawn to systems where theory survives contact with reality.
 </p>
 
+<br>
+
 <ul>
   <li>
     λ Type Theory & Programming Language Theory
