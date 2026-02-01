@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/creation_of_adam.jpg" width="720" alt="The Creation of Adam — detail">
+  <img src="./images/creation_of_adam.jpg" width="1000" alt="The Creation of Adam — detail">
 </p>
 
 <h1 align="center">Ismael</h1>
@@ -17,14 +17,17 @@
 <br>
 
 <p align="center">
-  <img src="./images/white_roses.jpg" width="260" alt="Floral divider">
+  <img src="./images/white_roses.jpg" width="600" alt="Floral divider">
 </p>
 
 <div align="center">
   <h2>Focus</h2>
 </div>
 
-My work lives at the intersection of abstraction and execution.
+<p align="center">
+    My work lives at the intersection of abstraction and execution.
+</p>
+
 
 I’m particularly drawn to:
 - Type Theory and PL Theory  
@@ -34,7 +37,7 @@ I’m particularly drawn to:
 <br>
 
 <p align="center">
-  <img src="./images/Margaretha.jpg" width="260" alt="Floral divider">
+  <img src="./images/Margaretha.jpg" width="600" alt="Floral divider">
 </p>
 
 <div align="center">
@@ -51,7 +54,7 @@ I’m particularly drawn to:
 <br>
 
 <p align="center">
-  <img src="./images/violet.jpg" width="260" alt="Floral divider">
+  <img src="./images/violet.jpg" width="600" alt="Floral divider">
 </p>
 
 
@@ -62,22 +65,14 @@ I’m particularly drawn to:
 <b>Languages</b><br>
 `Python` · `Java` · `C` · `SQL (PostgreSQL)` · `Rust` · `OCaml`
 
-<br><br>
-
 <b>Frameworks</b><br>
 `FastAPI (REST API)` · `Flask` · `Django` · `React` · `PyTest` · `JUnit`
 
-<br><br>
 
 <b>Developer Tools</b><br>
 `Git` · `Docker` · `AWS (S3)`
 
 ---
-
-<p align="center">
-  <img src="./images/divider_roses_1.png" width="260" alt="Floral divider">
-</p>
-
 <div align="center">
   <h2>Connect</h2>
 </div>
