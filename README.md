@@ -16,7 +16,7 @@
 
 <div align="center">
   <h2>
-    <img src="./icons/rose.svg" width="18"> Focus
+    ∴ Focus
   </h2>
 </div>
 
@@ -27,16 +27,13 @@
 
 <ul>
   <li>
-    <img src="./icons/lambda.svg" width="14">
-    Type Theory & Programming Language Theory
+    λ Type Theory & Programming Language Theory
   </li>
   <li>
-    <img src="./icons/gear.svg" width="14">
-    Compilers, Concurrency, Systems Programming
+    ⧉ Compilers, Concurrency, Systems Programming
   </li>
   <li>
-    <img src="./icons/triangle.svg" width="14">
-    Quantitative finance & market modeling
+    △ Quantitative finance & market modeling
   </li>
 </ul>
 
@@ -50,15 +47,14 @@
 
 <div align="center">
   <h2>
-    <img src="./icons/gear.svg" width="18"> What I’m Working On
+    ∀ What I’m Working On
   </h2>
 </div>
 
 <ul>
   <li>
-    Designing and implementing a
-    <b>low-latency market-making engine</b> for prediction markets,
-    with an emphasis on performance, concurrency, and execution efficiency
+    λ Designing and implementing a
+    <b>low-latency market-making engine</b> for prediction markets
   </li>
   <li>
     Developing <b>object detection and avoidance systems</b>
@@ -66,7 +62,6 @@
   </li>
   <li>
     Building <b>machine learning models for healthcare</b>,
-    focused on real-world clinical data and decision support
   </li>
 </ul>
 
@@ -80,7 +75,7 @@
 
 <div align="center">
   <h2>
-    <img src="./icons/inf.svg" width="18"> Technical Stack
+    ∑ Technical Stack
   </h2>
 </div>
 
@@ -111,7 +106,7 @@
 
 <div align="center">
   <h2>
-    <img src="./icons/link.svg" width="18"> Connect
+    ∞ Connect
   </h2>
 </div>
 
