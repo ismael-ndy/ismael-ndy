@@ -23,14 +23,18 @@
   I’m drawn to systems that are mathematically grounded and operationally sharp.
 </p>
 
+<br>
+
 <ul>
   <li>Type Theory & Programming Language Theory</li>
   <li>Compilers, Concurrency, Systems Programming</li>
   <li>Quantitative finance & market modeling</li>
 </ul>
 
+<br>
+    
 <p align="center">
-  <img src="./images/white_roses.jpg" width="400" alt="Floral divider">
+  <img src="./images/white_roses.jpg" width="500" alt="Floral divider">
 </p>
 
 <br>
@@ -42,19 +46,20 @@
 <ul>
   <li>
     Designing and implementing a <b>low-latency market-making engine</b> for prediction
-    markets, with an emphasis on performance, concurrency, and execution efficiency
+    markets
   </li>
   <li>
     Developing <b>object detection and avoidance systems</b> for autonomous drones
   </li>
   <li>
-    Building <b>machine learning models for healthcare</b>, focused on real-world
-    clinical data and decision support
+    Building <b>machine learning models for healthcare</b>
   </li>
 </ul>
 
+<br>
+    
 <p align="center">
-  <img src="./images/Margaretha.jpg" width="400" alt="Floral divider">
+  <img src="./images/Margaretha.jpg" width="500" alt="Floral divider">
 </p>
 
 <br>
@@ -80,8 +85,10 @@
   <code>Git</code> · <code>Docker</code> · <code>AWS (S3)</code>
 </p>
 
+<br>
+    1
 <p align="center">
-  <img src="./images/violet.jpg" width="400" alt="Floral divider">
+  <img src="./images/violet.jpg" width="500" alt="Floral divider">
 </p>
 
 <br>
