@@ -29,13 +29,13 @@
 
 <ul>
   <li>
-    [λ] Type Theory & Programming Language Theory
+    [λ] - Type Theory & Programming Language Theory
   </li>
   <li>
-    [⧉] Compilers, Concurrency, Systems Programming
+    [⧉] - Compilers, Concurrency, Systems Programming
   </li>
   <li>
-    [△] Quantitative finance & market modeling
+    [△] - Quantitative finance & market modeling
   </li>
 </ul>
 
