@@ -49,7 +49,7 @@
 
 <div align="center">
   <h2>
-    ∀ What I’m Working On
+    ∴ What I’m Working On
   </h2>
 </div>
 
@@ -77,7 +77,7 @@
 
 <div align="center">
   <h2>
-    ∑ Technical Stack
+    ∴ Technical Stack
   </h2>
 </div>
 
