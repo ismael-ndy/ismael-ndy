@@ -21,7 +21,6 @@
 </div>
 
 <p align="center">
-  My work lives at the intersection of abstraction and execution.<br>
   I’m drawn to systems where theory meets engineering.
 </p>
 
