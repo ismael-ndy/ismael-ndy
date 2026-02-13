@@ -83,7 +83,7 @@
 <p align="center">
   <b>Languages</b><br>
   <code>Python</code> · <code>Java</code> · <code>C</code> ·
-  <code>SQL (PostgreSQL)</code> · <code>Rust</code> · <code>OCaml</code>
+  <code>SQL</code> · <code>Rust</code> · <code>GoLang</code> · <code>OCaml</code>
 </p>
 
 <p align="center">
